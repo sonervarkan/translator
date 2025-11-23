@@ -18,14 +18,14 @@ This project uses the **MyMemory Translation API** to translate text between mul
 ---
 
 ## Project Structure
-
+```
 translator-app/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── languages.js
-
+```
 
 ---
 
@@ -105,7 +105,7 @@ Improve mobile responsiveness
 Add translation copy button
 
 ## License
-No license has been specified for this project. You may add one if needed.
+This project currently has no license.
 
 ## Acknowledgements
 Translation API: MyMemory Translated
